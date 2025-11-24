@@ -9,7 +9,7 @@ on:
 jobs:
   CI:
     runs-on: ubuntu-latest
-    name: metrics-server-exporter
+    name: supermario
     steps:
       - name: Checkout
         uses: actions/checkout@v4
